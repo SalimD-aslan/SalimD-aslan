@@ -17,6 +17,6 @@
 
 
 <p align="center">
-  ![yılan gif](https://github.com/SalimD-aslan/ SalimD-aslan/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/SaimD-aslan/SalimD-aslan/blob/output/github-snake-dark.svg)
 </p>
 
