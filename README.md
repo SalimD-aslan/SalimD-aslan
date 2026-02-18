@@ -17,6 +17,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SalimD-aslan/SalimD-aslan/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SalimD-aslan/SalimD-aslan/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
