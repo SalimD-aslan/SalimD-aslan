@@ -8,8 +8,7 @@ on:
 
   schedule:
 
-    - cron: "0  */12 * * *"
-
+   - cron: "0 */12 * * *"
 
 
   # Allow manual triggering of the workflow
@@ -66,12 +65,7 @@ jobs:
 
           outputs: |
 
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+            ![snake](https://github.com/kullaniciadi/kullaniciadi/blob/output/github-snake.svg?cache=1)
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
