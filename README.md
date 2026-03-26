@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SalimD-aslan/SalimD-aslan/output/github-snake-dark.svg" />
+  ![snake](https://github.com/kullaniciadi/kullaniciadi/blob/output/github-snake.svg?cache=1)
 </p>
 
 
