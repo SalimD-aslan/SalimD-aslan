@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kullaniciadi/kullaniciadi/output/github-snake.svg?cache=1" />
+  <img src="https://raw.githubusercontent.com/SalimD-aslan/SalimD-aslan/output/github-snake.svg?cache=1" />
 </p>
 
 
