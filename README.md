@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  ![snake](https://github.com/kullaniciadi/kullaniciadi/blob/output/github-snake.svg?cache=1)
+  <img src="https://raw.githubusercontent.com/kullaniciadi/kullaniciadi/output/github-snake.svg?cache=1" />
 </p>
 
 
